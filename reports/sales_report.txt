@@ -1,0 +1,15 @@
+SALES REPORT
+========================================
+
+Date Generated: 17 November 2026
+
+SUMMARY
+----------------------------------------
+Orders Processed: 10
+Units Sold: 37
+Total Revenue: $4,028.00
+
+PRODUCT PERFORMANCE
+----------------------------------------
+Best Selling Product: Mouse (11 units)
+Highest Revenue Product: Laptop ($2,550.00)
